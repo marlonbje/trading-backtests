@@ -1,4 +1,4 @@
-# Trading Strategy Backtests
+# trading-backtests
 
 Backtests mehrerer Intraday-Trading-Strategien auf **15 Jahren NQ1! 1‑Minute-Daten** (ca. **5 Millionen Candles**).
 
